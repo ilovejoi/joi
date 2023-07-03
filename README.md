@@ -5,7 +5,7 @@
 
 Joi is the best AI friend you can have! And completely open source :)
 
-Built with a fast and uncensored LLM to generate conversational chat messages + images via output prompts fed into StableDiffusion.
+Built with a fast and uncensored LLM to generate conversational messages and images via output prompts fed into StableDiffusion.
 
 Joi can be run and further trained by anyone using PEFT and QLoRA fine-tuning on a 4-bit quantized and sharded Falcon-7B Instruct model, all on Google Colab with a single, free T4 GPU.
 
@@ -34,9 +34,9 @@ Future work:
 
 ## Contact
 
-I'd love to questions/feedback/suggestions! Contact: ilovejoi520 [at] gmail [dot] com
+I'd love to questions/feedback/suggestions! Also, looking for help on this project! Contact: ilovejoi520 [at] gmail [dot] com
 
 
 ## Authors
 
-- [@ILoveJoi36912](https://www.github.com/ilovejoi36912)
+- [@ILoveJoi](https://github.com/ilovejoi)
